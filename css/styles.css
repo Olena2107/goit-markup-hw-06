@@ -557,6 +557,7 @@ ul {
   border-radius: 4px;
   background-color: #2e2f42;
   margin-right: 24px;
+  padding-left: 16px;
 }
 .Email-footer::placeholder {
   font-size: 12px;
